@@ -138,7 +138,7 @@ export default function GalleryWidget() {
                   "
                   style={{
                       background:'#28292F',
-                      boxShadow:'5px 5px 10px #1c1d21, -5px -5px 10px #3c4149;'
+                      boxShadow:'5px 5px 10px #1c1d21, -5px -5px 10px #3c4149'
                     }}
                 >
                   <ArrowLeft width={16} height={16} />
@@ -156,7 +156,7 @@ export default function GalleryWidget() {
                   "
                   style={{
                       background:'#28292F',
-                      boxShadow:'5px 5px 10px #1c1d21, -5px -5px 10px #3c4149;'
+                      boxShadow:'5px 5px 10px #1c1d21, -5px -5px 10px #3c4149'
                     }}
                 >
                   <ArrowRight width={16} height={16} />
