@@ -82,7 +82,7 @@ export default function InfoWidget() {
 
 	return (
 		<div
-			className="w-full max-w-[600px] h-[300px] rounded-[18px] relative"
+			className="w-full md:w-auto max-w-[600px] h-[300px] rounded-[18px] relative"
 			style={{
 				background: '#363c43',
 				boxShadow: '5.67px 5.67px 3.78px rgba(0, 0, 0, 0.4)',

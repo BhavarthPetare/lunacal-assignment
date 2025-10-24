@@ -64,7 +64,7 @@ export default function GalleryWidget() {
   return (
     <div
       className="
-        w-full max-w-[600px] h-[300px] rounded-[18px] relative 
+        w-full md:w-auto max-w-[600px] h-[300px] rounded-[18px] relative 
         bg-background-widget shadow-widget
       "
     >
